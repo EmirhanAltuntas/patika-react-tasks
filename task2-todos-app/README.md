@@ -11,6 +11,12 @@ cd task2-todos-app
 code .
 ```
 
+### eksik paketleri kurun
+```
+npm install
+```
+
+
 ![Image](./src/images/todo1.png)
 
 ![Image](./src/images/todo2.png)
