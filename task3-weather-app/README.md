@@ -1,4 +1,4 @@
-### todos app
+### weather-forecast-app
 
 ### repoyu klonlayın 
 ```
@@ -7,7 +7,7 @@ git clone https://github.com/EmirhanAltuntas/patika-react-tasks.git
 
 ### klasör dizinine gidin ve visul studio code ile açın
 ```
-cd task2-todos-app
+cd task3-weather-app
 code .
 ```
 
