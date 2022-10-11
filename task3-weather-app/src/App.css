@@ -1,0 +1,39 @@
+.main-img{
+  width: 75px !important;
+  height: 75px;
+  filter: drop-shadow(0 0 0.75rem rgba(164, 145, 145, 0.938));  border-radius: 5px;
+  
+}
+.card{
+  background: rgba(255, 255, 255, 0.983) !important;
+  border-radius: 0 !important;
+  box-shadow: rgba(230, 205, 205, 0.823) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;}
+.App{
+  min-height: 100vh;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+.baslik{
+  color: white;
+}
+.selectBox{
+  width: 300px !important;
+}
+.main{
+  min-width: 100vh;
+  margin: 0 !important;
+}
+.bg-black{
+  background-color: rgba(63, 63, 63, 0.204);
+}
+img {
+  max-width: 100%;
+}
+img[width] {
+  width: auto; /* Defer to max-width */
+}
+img[width][height] {
+  height: auto; /* Preserve aspect ratio */
+}
