@@ -24,6 +24,6 @@ npm start
 ```
 npm test
 ```
-<img src="../project-images/emoji-task1.png" alt="project-image" width="300"/>
+<img src="/project-images/emoji-task1.png" alt="project-image" width="300"/>
 
-<img src="../project-images/emoji-task-2.png" alt="project-image" width="300"/>
+<img src="/project-images/emoji-task-2.png" alt="project-image" width="300"/>
