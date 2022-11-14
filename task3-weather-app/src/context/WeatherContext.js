@@ -16,7 +16,7 @@ export const WeatherProvider = ({children}) =>{
       }
     },)
     const [weather,setWeather] = useState();
-    var api_key = "api_key"
+    var api_key = "8de1db426649010ab304078654a289f4"
 
     const cities = Cities
   
